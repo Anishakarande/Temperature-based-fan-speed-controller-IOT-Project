@@ -4,6 +4,8 @@ OBJECTIVES:
 1.	Interface a temperature-controlled fan with ESP8266 NodeMCU. 
 2.	Monitor and control the fan based on DHT11 temperature readings. 
 3.	Visualize data and control the fan remotely via Blynk IoT. 
+
+
 MATERIALS REQUIRED: 
 ESP8266 NodeMCU board 
 Motor driver (L298N) 
